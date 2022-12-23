@@ -67,3 +67,20 @@ a{
     font-size: 20px;
     width: 213px;
 }
+.text-gray{
+    color: rgb(117, 117, 117);
+}
+.bg-gray-opt{
+    background-color: rgba(117, 117, 117, 0.296);
+}
+.forms{
+    border-radius: 20px;
+    padding: 3rem;
+    margin: 3rem auto;
+}
+input:focus{
+    outline: none;
+}
+.fit-content{
+    width: fit-content !important;
+}
